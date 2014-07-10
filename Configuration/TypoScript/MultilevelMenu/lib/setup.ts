@@ -21,4 +21,3 @@ lib.navigation {
     }
   }
 }
-lib.navigation.main.10.2 = TEXT
