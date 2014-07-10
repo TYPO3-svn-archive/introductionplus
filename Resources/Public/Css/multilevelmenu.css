@@ -31,6 +31,12 @@
   left:-100%;
   margin-left:10px;
 }
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus {
+  background-color: #FF8700;
+  color:white;
+}
 @media (max-width: 991px) {
   .dropdown-menu{
     margin-left:10px;
