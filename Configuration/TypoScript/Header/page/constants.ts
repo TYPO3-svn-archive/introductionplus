@@ -1,0 +1,1 @@
+page.fluidtemplate.layoutRootPath = EXT:introductionplus/Resources/Private/Templates/Page/
