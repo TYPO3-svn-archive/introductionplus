@@ -1,7 +1,6 @@
 #############################
 #### LANGUAGE SETTINGS   ####
 #############################
-introductionplus.config.language.0.language
 config {
   sys_language_uid                    = 0
   sys_language_overlay                = 1
