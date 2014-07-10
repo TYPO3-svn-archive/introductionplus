@@ -2,13 +2,13 @@ introductionplus {
   config {
     language {
       0 {
-        language  = de
+        iso       = de
         locale    = de_DE.UTF-8
         direction = ltr
       }
       1 {
         uid       = 1
-        language  = en
+        iso       = en
         locale    = en_US.UTF-8
         direction = ltr
       }

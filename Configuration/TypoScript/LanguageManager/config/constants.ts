@@ -3,7 +3,7 @@ introductionplus {
     language {
       0 {
         # cat=introduction plus - language/150/101; type=string; label=ISO code:ISO code of the default language. See http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-        language  = en
+        iso       = en
         # cat=introduction plus - language/150/102; type=string; label=Locale Information:The locale information of the default language. See http://www.php.net/manual/de/function.setlocale.php
         locale    = en_US.UTF-8
         # cat=introduction plus - language/150/103; type=options[ltr,rtl]; label=Direction:Left to right (ltr) or right to left (rtl).
@@ -13,7 +13,7 @@ introductionplus {
         # cat=introduction plus - language/150/110; type=+int;   label=1. ID:ID of the 1st foreign language. Has to correspond with the ID of your language record.
         uid       = 1
         # cat=introduction plus - language/150/111; type=string; label=1. ISO code:ISO code of the 1st foreign language. Has to correspond with the flag label of your language record. See http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-        language  = de
+        iso       = de
         # cat=introduction plus - language/150/112; type=string; label=1. Locale Information:The locale information of the 1st foreign language. http://www.php.net/manual/de/function.setlocale.php
         locale    = de_DE.UTF-8
         # cat=introduction plus - language/150/113; type=options[ltr,rtl]; label=1. Direction:Left to right (ltr) or right to left (rtl).
@@ -23,7 +23,7 @@ introductionplus {
         # cat=introduction plus - language/150/200; type=+int;   label=2. ID:ID of the 2nd foreign language. Has to correspond with the ID of your language record.
         uid       = 2
         # cat=introduction plus - language/150/201; type=string; label=2. ISO code:ISO code of the 2nd foreign language. Has to correspond with the flag label of your language record. See http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-        language  = fr
+        iso       = fr
         # cat=introduction plus - language/150/202; type=string; label=2. Locale Information:The locale information of the 2nd foreign language. http://www.php.net/manual/de/function.setlocale.php
         locale    = fr_FR.UTF-8
         # cat=introduction plus - language/150/203; type=options[ltr,rtl]; label=2. Direction:Left to right (ltr) or right to left (rtl).
