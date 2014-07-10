@@ -1,1 +1,1 @@
-page.fluidtemplate.layoutRootPath = EXT:introductionplus/Resources/Private/Templates/Page/
+page.fluidtemplate.layoutRootPath = EXT:introductionplus/Resources/Private/Layouts/Page/
