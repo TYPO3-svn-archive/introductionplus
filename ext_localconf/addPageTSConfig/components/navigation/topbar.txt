@@ -1,3 +1,0 @@
-TCEFORM.tt_content.menu_type.addItems {
-  introductionplusTopBar = Bootstrap top bar
-}
