@@ -60,5 +60,5 @@ introductionplus.lib {
   }
 }
 
-tt_content.menu.20.introductionplusNavLanguageText < introductionplus.lib.nav.language.text
-tt_content.menu.20.introductionplusNavLanguageIcons < introductionplus.lib.nav.language.icons
+tt_content.menu.20.introductionplusNavLangText < introductionplus.lib.nav.language.text
+tt_content.menu.20.introductionplusNavLangIcons < introductionplus.lib.nav.language.icons
