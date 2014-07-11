@@ -1,1 +1,2 @@
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:introductionplus/Configuration/TypoScript/TopBar/page/constants.ts">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:introductionplus/Configuration/TypoScript/TopBar/topbar/constants.ts">
