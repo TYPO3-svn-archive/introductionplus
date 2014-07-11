@@ -3,14 +3,13 @@
   <div class="container">
     <div class="row">
       <div class="col-md-{f:cObject(typoscriptObjectPath:'introductionplus.topbar.columns.width.left')} left">
-        .col-md-3 <f:cObject typoscriptObjectPath="introductionplus.topbar.columns.width.left" />
+        <f:cObject typoscriptObjectPath="introductionplus.lib.folders.left" />
       </div>
-      <div class="col-md-6">
-        <!--<f:cObject typoscriptObjectPath="lib.dynamicContentSlide" data="10" />-->
-        .col-md-6 <f:cObject typoscriptObjectPath="introductionplus.topbar.columns.width.center" />
+      <div class="col-md-{f:cObject(typoscriptObjectPath:'introductionplus.topbar.columns.width.center')}">
+        <f:cObject typoscriptObjectPath="introductionplus.lib.folders.center" />
       </div>
-      <div class="col-md-3 right">
-        .col-md-3 <f:cObject typoscriptObjectPath="introductionplus.topbar.columns.width.right" />
+      <div class="col-md-{f:cObject(typoscriptObjectPath:'introductionplus.topbar.columns.width.right')} right">
+        <f:cObject typoscriptObjectPath="introductionplus.lib.folders.right" />
       </div>
     </div>
   </div>
