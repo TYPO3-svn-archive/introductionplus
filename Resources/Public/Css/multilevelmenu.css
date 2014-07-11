@@ -31,6 +31,10 @@
   left:-100%;
   margin-left:10px;
 }
+.introductionplus-topbar {
+  border-top:0px;
+  padding:0px;
+}
 .nav .open > a,
 .nav .open > a:hover,
 .nav .open > a:focus {
