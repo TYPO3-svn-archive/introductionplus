@@ -1,2 +1,0 @@
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:introductionplus/Configuration/TypoScript/LanguageManager/Config/de/constants.ts">
-<INCLUDE_TYPOSCRIPT: source="FILE:EXT:introductionplus/Configuration/TypoScript/LanguageManager/Lib/de/constants.ts">
