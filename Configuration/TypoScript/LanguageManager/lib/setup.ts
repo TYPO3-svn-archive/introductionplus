@@ -54,3 +54,5 @@ introductionplus.lib {
     wrap = <ul id="language_menu" class="list-inline">|</ul>
   }
 }
+
+tt_content.menu.20.introductionplusNavLanguage < introductionplus.lib.nav.language
