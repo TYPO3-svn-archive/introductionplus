@@ -14,9 +14,14 @@ introductionplus.bootstrap {
           NO {
           }
           ACT < .NO
+          ACT = 1
           ACT {
-            wrapItemAndSub = <li class="act">|</li>
+            wrapItemAndSub = <li class="active">|</li>
           }
+          CUR < .ACT
+        }
+        stdWrap {
+          outerWrap = <ul class="nav nav-pills">|</ul>
         }
       }
     }
