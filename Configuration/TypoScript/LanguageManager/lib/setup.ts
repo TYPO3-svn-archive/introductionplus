@@ -50,8 +50,8 @@ introductionplus.lib {
           stdWrap.typolink >
         }
       }
+      wrap = <ul id="language_menu" class="list-inline">|</ul>
     }
-    wrap = <ul id="language_menu" class="list-inline">|</ul>
   }
 }
 
