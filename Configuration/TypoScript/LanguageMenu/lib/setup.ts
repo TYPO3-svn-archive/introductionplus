@@ -60,26 +60,22 @@ introductionplus.lib {
         1 {
           NO {
             stdWrap {
-              override = <img src="typo3/gfx/flags/{$introductionplus.lib.nav.language.0.iso}.gif" alt="{$introductionplus.lib.nav.language.0.label}" title="{$introductionplus.lib.nav.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.lib.nav.language.1.iso}.gif" alt="{$introductionplus.lib.nav.language.1.label}" title="{$introductionplus.lib.nav.language.1.label}"/>
-              }
+              override = <img src="typo3/gfx/flags/{$introductionplus.config.language.0.iso}.gif" alt="{$introductionplus.config.language.0.label}" title="{$introductionplus.config.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.config.language.1.iso}.gif" alt="{$introductionplus.config.language.1.label}" title="{$introductionplus.config.language.1.label}"/>
             }
           }
           ACT {
             stdWrap {
-              override = <img src="typo3/gfx/flags/{$introductionplus.lib.nav.language.0.iso}.gif" alt="{$introductionplus.lib.nav.language.0.label}" title="{$introductionplus.lib.nav.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.lib.nav.language.1.iso}.gif" alt="{$introductionplus.lib.nav.language.1.label}" title="{$introductionplus.lib.nav.language.1.label}"/>
-              }
+              override = <img src="typo3/gfx/flags/{$introductionplus.config.language.0.iso}.gif" alt="{$introductionplus.config.language.0.label}" title="{$introductionplus.config.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.config.language.1.iso}.gif" alt="{$introductionplus.config.language.1.label}" title="{$introductionplus.config.language.1.label}"/>
             }
           }
           USERDEF1 {
             stdWrap {
-              override = <img src="typo3/gfx/flags/{$introductionplus.lib.nav.language.0.iso}.gif" alt="{$introductionplus.lib.nav.language.0.label}" title="{$introductionplus.lib.nav.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.lib.nav.language.1.iso}.gif" alt="{$introductionplus.lib.nav.language.1.label}" title="{$introductionplus.lib.nav.language.1.label}"/>
-              }
+              override = <img src="typo3/gfx/flags/{$introductionplus.config.language.0.iso}.gif" alt="{$introductionplus.config.language.0.label}" title="{$introductionplus.config.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.config.language.1.iso}.gif" alt="{$introductionplus.config.language.1.label}" title="{$introductionplus.config.language.1.label}"/>
             }
           }
           USERDEF2 {
             stdWrap {
-              override = <img src="typo3/gfx/flags/{$introductionplus.lib.nav.language.0.iso}.gif" alt="{$introductionplus.lib.nav.language.0.label}" title="{$introductionplus.lib.nav.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.lib.nav.language.1.iso}.gif" alt="{$introductionplus.lib.nav.language.1.label}" title="{$introductionplus.lib.nav.language.1.label}"/>
-              }
+              override = <img src="typo3/gfx/flags/{$introductionplus.config.language.0.iso}.gif" alt="{$introductionplus.config.language.0.label}" title="{$introductionplus.config.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.config.language.1.iso}.gif" alt="{$introductionplus.config.language.1.label}" title="{$introductionplus.config.language.1.label}"/>
             }
           }
         }
