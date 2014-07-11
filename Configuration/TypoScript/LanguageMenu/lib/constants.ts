@@ -2,7 +2,7 @@ introductionplus {
   lib {
     nav {
       language {
-        # cat=introduction plus - language menu/100/100; type=string; label=Menu labels:List of menue labels devided by a double pipe. I.e: English || Deutsch || Francoise
+        # cat=introduction plus - language menu/100/100; type=string; label=Menu labels:List of menue labels devided by a double pipe. Needed if you are using the language text menu. Not needed in case of the language icon menu. I.e: English || Deutsch || Francoise
         override          = English || Deutsch
         # cat=introduction plus - language menu/100/101; type=string; label=Enabled menus:List of menu ids devided by a comma. I.e: 0,1,2
         special           = 0,1
