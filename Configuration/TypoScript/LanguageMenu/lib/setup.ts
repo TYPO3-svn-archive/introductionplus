@@ -23,7 +23,7 @@ introductionplus.lib {
             linkWrap = <li>|</li>
             doNotLinkIt = 1
             stdWrap {
-              override = {$introductionplus.lib.nav.language.override}
+              override = {$introductionplus.lib.nav.language.override.text}
               typolink {
                 parameter {
                   data = page:uid
@@ -60,22 +60,22 @@ introductionplus.lib {
         1 {
           NO {
             stdWrap {
-              override = <img src="typo3/gfx/flags/{$introductionplus.config.language.0.iso}.gif" alt="{$introductionplus.config.language.0.label}" title="{$introductionplus.config.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.config.language.1.iso}.gif" alt="{$introductionplus.config.language.1.label}" title="{$introductionplus.config.language.1.label}"/>
+              override = {$introductionplus.lib.nav.language.override.icons}
             }
           }
           ACT {
             stdWrap {
-              override = <img src="typo3/gfx/flags/{$introductionplus.config.language.0.iso}.gif" alt="{$introductionplus.config.language.0.label}" title="{$introductionplus.config.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.config.language.1.iso}.gif" alt="{$introductionplus.config.language.1.label}" title="{$introductionplus.config.language.1.label}"/>
+              override = {$introductionplus.lib.nav.language.override.icons}
             }
           }
           USERDEF1 {
             stdWrap {
-              override = <img src="typo3/gfx/flags/{$introductionplus.config.language.0.iso}.gif" alt="{$introductionplus.config.language.0.label}" title="{$introductionplus.config.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.config.language.1.iso}.gif" alt="{$introductionplus.config.language.1.label}" title="{$introductionplus.config.language.1.label}"/>
+              override = {$introductionplus.lib.nav.language.override.icons}
             }
           }
           USERDEF2 {
             stdWrap {
-              override = <img src="typo3/gfx/flags/{$introductionplus.config.language.0.iso}.gif" alt="{$introductionplus.config.language.0.label}" title="{$introductionplus.config.language.0.label}"/> || <img src="typo3/gfx/flags/{$introductionplus.config.language.1.iso}.gif" alt="{$introductionplus.config.language.1.label}" title="{$introductionplus.config.language.1.label}"/>
+              override = {$introductionplus.lib.nav.language.override.icons}
             }
           }
         }
