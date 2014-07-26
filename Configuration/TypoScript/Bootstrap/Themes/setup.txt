@@ -1,0 +1,7 @@
+page {
+  includeCSS {
+    // Remove the theme of the Introduction Package
+    //theme >
+    introductionplusBootstrapTheme = {$introductionplus.bootstrap.themes.path}{$introductionplus.bootstrap.themes.theme}/{$introductionplus.bootstrap.themes.file}
+  }
+}

@@ -1,0 +1,14 @@
+introductionplus {
+  bootstrap {
+    themes {
+      # cat=introduction plus - bootstrap themes/150/101; type=options[IntroductionPackage,Amelia,Cerulean,Cosmo,Cyborg,Darkly,Flatly,Journal,Lumen,Readable,Simplex,Slate,Spacelab,Superhero,United,Yeti]; label=Theme:See http://introduction.cms.demo.typo3.org/, http://bootswatch.com/
+      theme = IntroductionPackage
+      # cat=introduction plus - bootstrap themes/150/102; type=string; label=Path:Path to the themes (with an ending slash!)
+      path = EXT:introductionplus/Resources/Public/Bootstrap/Themes/
+      # cat=introduction plus - bootstrap themes/150/103; type=options[bootstrap.min.css,bootstrap.css]; label=CSS file:The minified CSS file is recommended.
+      file = bootstrap.min.css
+      # cat=introduction plus - bootstrap themes/150/104; type=string; label=Linkwrap:Recommended for the TYPO3 Introduction Package only: |<mark class="bar"></mark>
+      linkwrap = |<mark class="bar"></mark>
+    }
+  }
+}
