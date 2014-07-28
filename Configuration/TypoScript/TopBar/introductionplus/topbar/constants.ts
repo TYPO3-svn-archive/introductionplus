@@ -12,11 +12,11 @@ introductionplus {
     }
     folders {
       # cat=introduction plus - top bar/250/200; type=int+;   label=Pid left content:The id of the folder with content for the left column.
-      left    =
+      left    = 9999
       # cat=introduction plus - top bar/250/201; type=int+;   label=Pid center content:The id of the folder with content for the center column.
-      center  =
+      center  = 9999
       # cat=introduction plus - top bar/250/202; type=int+;   label=Pid right content:The id of the folder with content for the right column.
-      right   =
+      right   = 9999
     }
   }
 }

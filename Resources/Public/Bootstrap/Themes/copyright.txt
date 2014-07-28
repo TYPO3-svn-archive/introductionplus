@@ -1,0 +1,4 @@
+Thanks to Bootswatch for the bootstrap themes.
+
+See: http://bootswatch.com/
+

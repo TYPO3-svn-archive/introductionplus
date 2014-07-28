@@ -11,23 +11,22 @@
  * ************************************************************* */
 
 $EM_CONF[ $_EXTKEY ] = array(
-  'title' => 'Introduction plus: Improved usability for the official Introduction Package',
-  'description' => 'Introduction Plus improves the usability of the official Introduction Package. '
-  . 'You can configure the language menu with the mouse. '
-  . 'The main menu can manage upto five levels instead of two levels.'
+  'title' => 'Introduction plus: Features for the official Introduction Package',
+  'description' => '15 default bootstrap themes, additional top bar, unlimited menu levels, interfaces for language menus among others.'
   ,
   'category' => 'misc',
   'author' => 'Dirk Wildt (Die Netzmacher)',
   'author_email' => 'http://wildt.at.die-netzmacher.de',
-  'state' => 'alpha',
+  'state' => 'beta',
   'internal' => '',
   'uploadfolder' => '0',
   'createDirs' => '',
   'clearCacheOnLoad' => 0,
-  'version' => '0.0.4',
+  'version' => '1.0.0',
   'constraints' => array(
     'depends' => array(
-      'typo3' => '6.2',
+			'typo3' => '6.2.0-6.2.99',
+			'bootstrap_package' => '6.2.0-6.2.99',
     ),
     'conflicts' => array(
     ),
